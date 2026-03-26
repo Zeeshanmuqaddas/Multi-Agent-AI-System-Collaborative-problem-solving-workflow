@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Agent AI Simulator",
+  "description": "Simulates a collaborative multi-agent workflow with Research, Analysis, Decision, and Report agents.",
+  "requestFramePermissions": []
+}
